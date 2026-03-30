@@ -21,14 +21,14 @@ This project implements a simple multi-threaded TCP server in C using POSIX sock
 
 ```
 .
-├── server.c
+├── multi_server.c
 └── README.md
 ```
 
 ## Compilation
 
 ```bash
-gcc server.c -o server -lpthread
+gcc multi_server.c -o server -lpthread
 ```
 
 ## Running the Server
