@@ -66,3 +66,5 @@ telnet localhost 8080
    * Sends responses
    * Closes connection on disconnect
 
+## Working screenshot
+<img width="497" height="289" alt="tcp_echo_server" src="https://github.com/user-attachments/assets/e787e6eb-a3b9-457f-a204-f282dc43d940" />
