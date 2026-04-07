@@ -1,4 +1,4 @@
-// server.c
+// multi_server.c
 // Complete TCP Multi-Threaded Echo Server in C (POSIX threads)
 
 #include <stdio.h>
